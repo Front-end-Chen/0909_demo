@@ -3,7 +3,6 @@ alert(100);
 alert(200);
 alert(200);
 alert(200);
-alert(78979);
-alert(79);
 alert(jh90);
 alert(20222);
+alert(3322);
